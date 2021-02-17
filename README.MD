@@ -115,3 +115,35 @@ datahere */
 datahere
 ]
 ```
+
+# Tablas
+| Nombre | Apellido | DNI | Dirección |
+| ------ | -------- | --- | --------- |
+| Miguel | Diaz Velasco| xxxxxxxx-X | Toledo |
+| Diego  | Perez Ordez | xxxxxxxx-X | Madrid |
+
+# Citas
+Esto es un texto referente a una cita que pondre en el final de mi readme:
+> Esta es la cita que va en el pie de pagina.
+
+Esto es otro texto que no se relaciona con la cita anterior:
+> Esto es otra cita.
+
+# Lineas Divisorias.
+Esto es un texto que lo dividire con una linea divisoras para a ver como interactua con el texto, por guiones.
+
+--- 
+Esto es otro texto dividido, por asteristcos.
+
+***
+Esto es otro texto dividido, por guiones bajos.
+
+___
+
+# Saltos de linea.
+Esto es un parrafo con el que hare saltos de linea.
+
+Esto es otro parrafo con un salto de linea.
+
+Esto es otro parrafo para configurar el salto de linea.
+- Lista
